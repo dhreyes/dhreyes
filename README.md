@@ -1,4 +1,4 @@
-<h2 align="center"> 🥰 </h2>
+<h2 align="center"> Welcome to my Github! </h2>
 
 
 <h3 align="center">Pinned Repositories</h3>
@@ -40,7 +40,7 @@
 
 | Project name | Description |
 | --- | --- |
-|[Printf](https://github.com/dhreyes/printf)| The program is designed to mimic the printf function in C.|
+|[Printf](https://github.com/xefigueroa/printf)| The program is designed to mimic the printf function in C.|
 |[Simple_Shell](https://github.com/dhreyes/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
 |[Monty](https://github.com/dhreyes/monty) | Stacks, Queues - LIFO, FIFO |
 |[Sorting Algorithms](https://github.com/dhreyes/sorting_algorithms)| Sorting algorithms & Big O notation |
