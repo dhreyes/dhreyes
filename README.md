@@ -2,7 +2,7 @@
 
 
 <h3 align="center">Pinned Repositories</h3>
-
+<div align="center">
 | Repository | Description |
 | --- | --- |
 | [ holbertonschool-higher_level_programming](https://github.com/dhreyes/holbertonschool-higher_level_programming) | Python3, Object-Oriented Programming, interpreted languages, test driven deveplopment, SQL, MySQL, HTML, CSS, JSON and Unit Testing |
@@ -59,3 +59,4 @@
 
 <br>
 
+</div>
