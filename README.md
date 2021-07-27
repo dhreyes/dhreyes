@@ -52,4 +52,10 @@
 <a href="https://www.linkedin.com/in/caroline-delcarmen-8abb25205/n" target="_blank"></a>
 <a href="https://stackoverflow.com/users/15119783/caroline?tab=profile" target="_blank"></a>
 <a href="https://www.hackerrank.com/dhreyes?hr_r=1" target="_blank"></a>
+
+<!--  GitHub Stats --->
+<a><img height="165px" img align="center" alt="Lord-Gusarov's Stats" src="https://github-readme-stats.vercel.app/api?username=Lord-Gusarov&show_icons=true&theme=chartreuse-dark" />
+</a><a><img height="165px" img align="center" alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Gusarov&layout=compact&hide=perl&theme=chartreuse-dark" /></a>
+
 <br>
+
