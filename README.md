@@ -1,5 +1,7 @@
 <h2 align="center"> Welcome to my Github! </h2>
 
+<img src="https://media1.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e47hskcyluzfzk8s5a42cgnsbtge5h4yd9eyihci7vg&rid=giphy.gif&ct=g" alt="Monkey Typing Away" width="100%"/>
+
 
 <h3 align="center">Pinned Repositories</h3>
 
